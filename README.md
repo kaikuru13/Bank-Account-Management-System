@@ -1,7 +1,7 @@
 # Bank-Account-Management-System
 A bank account program in which the user can withdraw or deposit money by logging in to his/her account or by creating a new account.
 
-Fammiliarized myself with: 
+Familiarized myself with: 
  - CRUD Operations
  - SQLite 
  
