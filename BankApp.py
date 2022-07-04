@@ -87,9 +87,9 @@ while option != 6:
         pin = input("Enter Your Pin :")
         login(username,pin)
         if loggedIn:
-            print("You are logged In , Welcome Kailas Bank Customer, what can we do for you ")
+            print("Welcome, what can we do for you? ")
         else:
-            print("Your login failed, please choose back the option 1 to login back")
+            print("Your login failed, please choose option 1 to login again")
     elif option == '2':
         usrname = input("Enter a Username :")
         pn = input("Enter a Pin:")
